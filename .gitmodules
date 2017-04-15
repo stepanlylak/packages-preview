@@ -1,0 +1,6 @@
+[submodule "packages/select-boxes"]
+	path = packages/select-boxes
+	url = https://github.com/stepanlylak/select-boxes.git
+[submodule "packages/modal-boxes"]
+	path = packages/modal-boxes
+	url = https://github.com/stepanlylak/modal-boxes.git
